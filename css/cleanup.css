@@ -1,1 +1,24 @@
-/* write your override styles here */
+#wall .tag-1 {
+    display: none;
+  } 
+#tag-3 {
+    background-color: blueviolet;
+}
+div {
+    align-content: left;
+}
+#wall .tag-3 {
+    background-color: chartreuse;
+}
+#wall .tag-2 {
+    display: none;
+}
+#tag-2 {
+    display: none;
+}
+#div .slick.wicked{
+    display: none;
+}
+.tag-1, #tag-2, #tag-3 {
+    background:none
+}
